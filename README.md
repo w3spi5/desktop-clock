@@ -15,4 +15,12 @@ NOTE: You will need to have Python 3 installed and `pythonw` must be added to yo
 4. Move the shortcut into the startup folder (`C:\Users\<user name>\AppData\Roaming\Microsoft\Windows\Start Menu\Programs\Startup`).
 5. Done! The clock will now appear anytime you start your computer.
 
-If you would like to close the program, click on the clock and hold the escape key for 1 second.
+If you would like to close the program, click on the clock and press escape key 2 times within 1 second.
+
+## Forked from acoollevel/desktop-clock
+
+## Changelog
+
+- Added user's preferred locale
+- Added year + first letter uppercase
+- Text has been aligned vertically rather than centrally
